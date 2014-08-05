@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Sezz" APIVersion="9" Name="SKeybindings" Description="Simple exporting/importing of keybindings">
+    <Script Name="Libs\AceSerializer-3.0\AceSerializer-3.0.lua"/>
+    <Script Name="sKeybindings.lua"/>
+    <Form Name="sKeybindings.xml"/>
+</Addon>
